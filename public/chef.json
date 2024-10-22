@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/5F8S7f4/image.png",
+      "title": "Spaghetti Carbonara",
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta",
+        "2 large eggs",
+        "50g Pecorino cheese",
+        "50g Parmesan",
+        "Black pepper",
+        "Salt"
+      ],
+      "time": 20,
+      "calories": 570,
+      "description": "A classic Italian pasta dish made with creamy eggs, crispy pancetta."
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/5F8S7f4/image.png",
+      "title": "Chicken Caesar Salad",
+      "ingredients": [
+        "1 chicken breast",
+        "2 cups romaine lettuce",
+        "1/4 cup Parmesan cheese",
+        "Croutons",
+        "Caesar dressing",
+        "Salt",
+        "Pepper"
+      ],
+      "time": 15,
+      "calories": 350,
+      "description": "A light and refreshing salad featuring grilled chicken, crisp romaine."
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/5F8S7f4/image.png",
+      "title": "Vegetable Stir Fry",
+      "ingredients": [
+        "1 bell pepper",
+        "1 carrot",
+        "1 zucchini",
+        "1 onion",
+        "2 tbsp soy sauce",
+        "1 tsp ginger",
+        "1 tbsp olive oil"
+      ],
+      "time": 10,
+      "calories": 220,
+      "description": "A quick and healthy stir fry packed with colorful vegetables and a savory ginger-soy sauce."
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/N7gz5N8/image.png",
+      "title": "Avocado Toast",
+      "ingredients": [
+        "1 ripe avocado",
+        "2 slices of whole grain bread",
+        "1 tbsp olive oil",
+        "Salt",
+        "Pepper",
+        "Chili flakes"
+      ],
+      "time": 5,
+      "calories": 300,
+      "description": "A simple and tasty meal featuring creamy mashed avocado on toasted whole grain bread."
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/N7gz5N8/image.png",
+      "title": "Beef Tacos",
+      "ingredients": [
+        "200g ground beef",
+        "4 taco shells",
+        "1/2 cup shredded lettuce",
+        "1/4 cup shredded cheese",
+        "Salsa",
+        "Sour cream"
+      ],
+      "time": 25,
+      "calories": 480,
+      "description": "Flavorful ground beef tacos topped with lettuce, cheese, salsa, and sour cream."
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/N7gz5N8/image.png",
+      "title": "Pancakes",
+      "ingredients": [
+        "1 cup flour",
+        "1 egg",
+        "1 cup milk",
+        "1 tbsp sugar",
+        "1 tsp baking powder",
+        "1/4 tsp salt",
+        "Butter for cooking"
+      ],
+      "time": 15,
+      "calories": 400,
+      "description": "Fluffy and light pancakes made with simple ingredients."
+    }
+  ]
+  
